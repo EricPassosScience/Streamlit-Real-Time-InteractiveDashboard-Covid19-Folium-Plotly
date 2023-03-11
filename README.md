@@ -15,6 +15,8 @@ Con base en estos datos, un grupo de empresas creó una API pública y gratuita 
 
 Datos -> https://coronavirus.jhu.edu/map.html
 
+Datos de coordenadas del país -> adjunto
+
 API -> https://covid19api.com/
 
 También se puede encontrar más información sobre la fuente de datos en este repositorio de GitHub -> https://github.com/CSSEGISandData/COVID-19
